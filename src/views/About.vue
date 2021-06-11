@@ -9,9 +9,9 @@
       @copied="copiedData">
       Contract Address
 </vh-copy><br>
- <h1></h1>
+ <h1>THE XI PROTOCOL</h1>
 <br><p>
-THE XI PROTOCOL IS COMPROMISED OF MINTING FOR AN EVENTUALLY TERMINATING RESERVATION OF XI UTILITY TOKENS, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS</p>    <br>    <router-link :to="{ name: 'home' }" >
+IS COMPROMISED OF MINTING FOR AN EVENTUALLY TERMINATING RESERVATION OF XI UTILITY TOKENS, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS</p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
     </router-link></div>
 
