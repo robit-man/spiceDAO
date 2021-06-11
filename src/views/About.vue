@@ -11,7 +11,10 @@
 </vh-copy><br>
  <h1>THE XI PROTOCOL</h1>
 <br><p>
-IS COMPRISED OF MINTING FOR AN EVENTUALLY TERMINATING RESERVATION OF XI UTILITY TOKENS, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS</p>    <br>    <router-link :to="{ name: 'home' }" >
+IS COMPRISED OF MINTING FOR AN EVENTUALLY TERMINATING RESERVATION OF XI UTILITY TOKENS, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS
+<br><br> ETH used to mint XI will be used over the duration of the countdown:<br>
+50% SWAP ETH/XI on UNISWAP<br>
+50% TEAM</p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
     </router-link></div>
 
