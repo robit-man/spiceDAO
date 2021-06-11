@@ -5,15 +5,15 @@
 <div class="about-wrapper">
   <div class="about-text">
        <router-link :to="{ name: 'about' }" >
-      <h1 style="color:white;">GAMMA PROTOCOL <img src="~/@/assets/paper.png" style="filter:invert(1);" alt="">
+      <h1 style="color:white;">XI PROTOCOL <img src="~/@/assets/paper.png" style="filter:invert(1);" alt="">
       </h1>
     </router-link>
     </div>
 
     <div class="logo-center-wrapper" style="">
 <div class="siblings greek-icons">
-  <a target="_blank" href="https://xiprotocol.io">
-<img src="~/@/assets/xi_token_icon_v0.1-48.png" alt="" class="sibling-icon">
+  <a target="_blank" href="https://gammaprotocol.io">
+<img src="~/@/assets/gamma-26.png" alt="" class="sibling-icon">
 </a>
   <a target="_blank" href="https://betaprotocol.io">
 <img src="~/@/assets/beta-13.png" alt="" class="middle-1 sibling-icon">
@@ -33,7 +33,7 @@
 
 <jj-parallax-card class="" lightColor="transparent" style="filter:invert(1);margin:auto; width: 512px; height: 512px;" @click="click">
       <div slot="front">
-      <img src="~/@/assets/gamma-26.png" width="512px;" height="512px;" class="img-top" alt="">
+      <img src="~/@/assets/xi_token_icon_v0.1-48.png" width="512px;" height="512px;" class="img-top" alt="">
       </div>
 </jj-parallax-card>
 
@@ -46,7 +46,7 @@
 
 <jj-parallax-card class="" lightColor="transparent" style="filter:invert(1);margin:auto; width: 300px; height: 300px;" @click="click">
       <div slot="front">
-      <img src="~/@/assets/gamma-26.png" width="300px;" height="300px;" class="img-top" alt="">
+      <img src="~/@/assets/xi_token_icon_v0.1-48.png" width="300px;" height="300px;" class="img-top" alt="">
       </div>
 </jj-parallax-card>
 
