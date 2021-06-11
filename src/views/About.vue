@@ -2,21 +2,18 @@
   <div class="full-wrapper">
     
   
-<jj-parallax-card class="" lightColor="transparent" style="margin:auto; width: 512px; height: 512px;" @click="click">
-      <div slot="front">
+      <div class="about-wrap">
          <vh-copy class="para-desktop copy-button"
-      :data="'0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55'"
+      :data="'TBD'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
       Contract Address
 </vh-copy><br>
- <h1>METAORACLE</h1>
+ <h1></h1>
 <br><p>
-
-Present on the exposed surfaces and livestreamed from a satellite to be placed in LEO in JUNE 2022, These pixel's hue (KAPPA), luminosity (GAMMA), X-Axis (BETA) and Y-Axis (RHO) locations are acquired in exchange for the aforementioned tokens.</p>    <br>    <router-link :to="{ name: 'home' }" >
+THE XI PROTOCOL IS COMPROMISED OF MINTING FOR AN EVENTUALLY TERMINATING RESERVATION OF XI UTILITY TOKENS, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS</p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
     </router-link></div>
-</jj-parallax-card>
 
   </div>
 </template>
