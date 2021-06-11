@@ -26,7 +26,7 @@
 </a>
 </div>
 
-      <vh-copy class="copy-button"
+      <vh-copy class="para-desktop copy-button"
       :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
@@ -70,7 +70,7 @@
 </div>  
 <div class="about-text">
 
-      <vh-copy class="para-desktop copy-button"
+      <vh-copy class="copy-button"
       :data="'0xE30385Bb725EDD1C26C083Ef56fe60E3b5528C5d'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
