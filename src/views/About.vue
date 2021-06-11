@@ -4,7 +4,7 @@
   
       <div class="about-wrap">
          <vh-copy class="para-desktop copy-button"
-      :data="'Слава богу!'"
+      :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
       Contract Address

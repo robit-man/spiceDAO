@@ -27,7 +27,7 @@
 </div>
 
       <vh-copy class="para-desktop copy-button"
-      :data="'Слава богу!'"
+      :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
 
@@ -40,7 +40,7 @@
       </vh-copy>
 
       <vh-copy class="para-mobile copy-button"
-      :data="'Слава богу!'"
+      :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
 
@@ -53,25 +53,31 @@
       </vh-copy>
  
 <div class="siblings">
-  <a target="_blank" href="https://app.uniswap.org/#/swap?outputCurrency=Слава богу!">
+  <a target="_blank" href="https://app.uniswap.org/#/swap?outputCurrency=0x295B42684F90c77DA7ea46336001010F2791Ec8c">
 <img src="~/@/assets/uniswap.png" alt="" class="sibling-icon">
 </a>
-  <a target="_blank" href="https://etherscan.io/address/Слава богу!">
+  <a target="_blank" href="https://etherscan.io/address/0x295B42684F90c77DA7ea46336001010F2791Ec8c">
 <img src="~/@/assets/etherscan.png" alt="" class="middle-3 sibling-icon">
 </a>
-  <a target="_blank" href="https://www.dextools.io/app/uniswap/pair-explorer/Слава богу!">
+  <a target="_blank" href="https://www.dextools.io/app/uniswap/pair-explorer/0x295B42684F90c77DA7ea46336001010F2791Ec8c">
 <img src="~/@/assets/dextools.png" alt="" class="middle-4 sibling-icon">
 </a>
-  <a target="_blank" href="https://app.uniswap.org/#/add/Слава богу!/ETH">
+  <a target="_blank" href="https://app.uniswap.org/#/add/0x295B42684F90c77DA7ea46336001010F2791Ec8c/ETH">
 <img src="~/@/assets/liquidity.png" alt="" class="sibling-icon">
 </a>
 </div>
 
 </div>  
 <div class="about-text">
+
+      <vh-copy class="para-desktop copy-button"
+      :data="'0xE30385Bb725EDD1C26C083Ef56fe60E3b5528C5d'"
+      :confirm_dialog="'buefy'"
+      @copied="copiedData">
+<h1 style="border:1px solid white; border-radius:0.25rem;width:330px;margin:0.5rem auto;"> SALE ADDRESS  </h1>      </vh-copy>
+     
     <Countdown deadline="June 1, 2022"></Countdown>
-          <h1>
-      </h1>
+
     </div>
 
 
