@@ -1,4 +1,4 @@
-# GAMMA
+# XI
 
 ## Project setup
 ```
