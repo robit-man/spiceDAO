@@ -27,7 +27,7 @@
 </div>
 
       <vh-copy class="para-desktop copy-button"
-      :data="'0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55'"
+      :data="'Слава богу!'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
 
@@ -40,7 +40,7 @@
       </vh-copy>
 
       <vh-copy class="para-mobile copy-button"
-      :data="'0x1e1eed62f8d82ecfd8230b8d283d5b5c1ba81b55'"
+      :data="'Слава богу!'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
 

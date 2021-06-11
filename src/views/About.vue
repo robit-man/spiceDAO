@@ -4,7 +4,7 @@
   
       <div class="about-wrap">
          <vh-copy class="para-desktop copy-button"
-      :data="'TBD'"
+      :data="'Слава богу!'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
       Contract Address
