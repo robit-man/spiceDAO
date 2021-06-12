@@ -18,7 +18,10 @@
 <p>
 
 THE XI PROTOCOL IS COMPRISED OF MINTING XI UTILITY TOKENS TO BE EXCHANGED WITH ETH, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS ONCE COUNTDOWN ENDS
-<br><br> ETH used to mint XI will be used over the duration of the countdown:<br>
+
+<br><br> ETH EXCHANGED FOR XI AFTER MINTING WILL, OVER THE DURATION OF THE COUNTDOWN, BE ALLOCATED:
+
+<br>
 50% SWAP ETH/XI on UNISWAP<br>
 50% TEAM</p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
