@@ -3,15 +3,21 @@
     
   
       <div class="about-wrap">
-         <vh-copy class="para-desktop copy-button"
+         <vh-copy class=" copy-button"
+      :data="'0xE30385Bb725EDD1C26C083Ef56fe60E3b5528C5d'"
+      :confirm_dialog="'buefy'"
+      @copied="copiedData">
+      Sale Address
+</vh-copy><br><br>
+         <vh-copy class=" copy-button"
       :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
       Contract Address
-</vh-copy><br>
- <h1>THE XI PROTOCOL</h1>
-<br><p>
-IS COMPRISED OF MINTING FOR AN EVENTUALLY TERMINATING RESERVATION OF XI UTILITY TOKENS, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS
+</vh-copy><br><br>
+<p>
+
+THE XI PROTOCOL IS COMPRISED OF MINTING XI UTILITY TOKENS TO BE EXCHANGED WITH ETH, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS ONCE COUNTDOWN ENDS
 <br><br> ETH used to mint XI will be used over the duration of the countdown:<br>
 50% SWAP ETH/XI on UNISWAP<br>
 50% TEAM</p>    <br>    <router-link :to="{ name: 'home' }" >
