@@ -3,12 +3,11 @@
     
   
       <div class="about-wrap">
-        <vh-copy class=" copy-button"
-      :data="'xiprotocol@protonmail.com'"
-      :confirm_dialog="'buefy'"
-      @copied="copiedData">
-      Contact
-</vh-copy><br><br>
+       <a href="mailto:xiprotocol@protonmail.com">
+       Contact
+       </a>
+       
+       <br><br>
          <vh-copy class=" copy-button"
       :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
       :confirm_dialog="'buefy'"
