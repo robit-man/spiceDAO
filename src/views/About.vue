@@ -4,10 +4,10 @@
   
       <div class="about-wrap">
          <vh-copy class=" copy-button"
-      :data="'sam@geometricenergy.com'"
+      :data="'fq7HVAjJm5vPgjQ'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
-      Satcom Hardware Inquiry
+      Contact
 </vh-copy><br><br>
          <vh-copy class=" copy-button"
       :data="'0x295B42684F90c77DA7ea46336001010F2791Ec8c'"
@@ -27,7 +27,7 @@ THE XI PROTOCOL IS COMPRISED OF MINTING XI UTILITY TOKENS TO BE EXCHANGED WITH E
 
 <br> 
 <br>
-THE XI SALE IS ENDING, PRESS THE CONTACT BUTTON ABOVE TO INQUIRE ABOUT RECIEVING SATCOM HARDWARE TO BE USED IN CONJUNCTION WITH XI PROTOCOL AND ASSOCIATED UTILITIES
+THE XI PUBLIC SALE IS CLOSED, PRESS THE CONTACT BUTTON ABOVE TO FACILITATE PRIVATE OTC ACQUISITION OF REMAINING XI UTILITY TOKENS
 </p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
     </router-link></div>
