@@ -70,11 +70,8 @@
 </div>  
 <div class="about-text">
 
-      <vh-copy class="copy-button"
-      :data="'0xE30385Bb725EDD1C26C083Ef56fe60E3b5528C5d'"
-      :confirm_dialog="'buefy'"
-      @copied="copiedData">
-<h1 style="display:inline;border:1px solid white; border-radius:0.25rem;width:max-content;max-width:330px;margin:auto;padding:0.5rem 1rem"> SALE ADDRESS  </h1>      </vh-copy>
+     <a href="mailto:xiprotocol@protonmail.com">
+<h1 style="display:inline;border:1px solid white; border-radius:0.25rem;width:max-content;max-width:330px;margin:auto;padding:0.5rem 1rem"> CONTACT US </h1>     </a>
      <br>
      <br>
     <Countdown deadline="June 1, 2022"></Countdown>
