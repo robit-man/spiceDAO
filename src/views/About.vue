@@ -3,8 +3,8 @@
     
   
       <div class="about-wrap">
-         <vh-copy class=" copy-button"
-      :data="'fq7HVAjJm5vPgjQ'"
+        <vh-copy class=" copy-button"
+      :data="'xiprotocol@protonmail.com'"
       :confirm_dialog="'buefy'"
       @copied="copiedData">
       Contact
