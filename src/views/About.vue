@@ -20,7 +20,7 @@ THE XI PROTOCOL IS COMPRISED OF MINTING XI UTILITY TOKENS TO BE EXCHANGED WITH E
 
 <br> 
 <br>
-THE XI PUBLIC SALE IS CLOSED, PRESS THE CONTACT BUTTON ABOVE TO FACILITATE PRIVATE OTC ACQUISITION OF REMAINING XI UTILITY TOKENS
+THE XI PUBLIC SALE IS CLOSED, PRESS THE CONTACT BUTTON ABOVE TO INQUIRE
 </p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
     </router-link></div>
