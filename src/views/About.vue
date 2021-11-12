@@ -16,11 +16,11 @@
 </vh-copy><br><br>
 <p>
 
-THE XI PROTOCOL IS COMPRISED OF MINTING XI UTILITY TOKENS TO BE EXCHANGED WITH ETH, AND STAKING FOR AN EVENTUALLY CORRECT METAORACLE WITH XI UTILITY TOKENS ONCE COUNTDOWN ENDS
-
-<br> 
-<br>
-THE XI PUBLIC SALE IS CLOSED, PRESS THE CONTACT BUTTON ABOVE TO INQUIRE
+The XI Protocol implements a Decentralized Supercomputer through Cascade Computing for Eventually Correct Metaoracles. By implementing sequential anti-sybil and computing phases with XI staking and oracle commit-reveal schema, the architecture outsources multi-agent distributed consensus.
+<br><br>
+Applications of the XI Protocol include utility for purchasing time on satellite advertising and utility as rewards for solutions to open mathematical problems. 
+<br><br>
+The XI Protocol intends to establish an interplanetary decentralized platform for providing financial incentives to outsourced forecasting of the truth and participate in new economic models for questions and answers.
 </p>    <br>    <router-link :to="{ name: 'home' }" >
      <img src="~/@/assets/xi_token_icon_v0.1-48.png" style="height:64px;filter:invert(1);" alt="">
     </router-link></div>
