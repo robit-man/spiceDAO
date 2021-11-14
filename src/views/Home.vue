@@ -74,7 +74,7 @@
 <h1 style="display:inline;border:1px solid white; border-radius:0.25rem;width:max-content;max-width:330px;margin:auto;padding:0.5rem 1rem"> CONTACT US </h1>     </a>
      <br>
      <br>
-    <Countdown deadline="June 1, 2022"></Countdown>
+    <Countdown deadline="October 1, 2022"></Countdown>
 
     </div>
 
