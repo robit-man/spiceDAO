@@ -1,4 +1,4 @@
-# XI
+# GRAIL DAO
 
 ## Project setup
 ```
