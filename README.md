@@ -1,4 +1,4 @@
-# GRAIL DAO
+# Grail DAO Frontend
 
 ## Project setup
 ```
