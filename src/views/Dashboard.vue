@@ -1,20 +1,18 @@
 <template>
-  <div style="margin:auto;" class="full-wrapper">
- 
-
-<jj-parallax-card class="data-card" lightColor="transparent" style="background:transparent;" @click="click">
+  <div class="full-wrapper">
+    <jj-parallax-card  lightColor="transparent" style="" @click="click">
       <div slot="front">
-      <img style="margin:auto; width:256px;display:flex;flex-flow:row;justify-content:center;" src="../assets/favicon.svg" alt="">
-     <h1 style="text-align:center;margin-top:1rem;"></h1>
+      <img style="max-width:256px;margin:auto;" src="../assets/favicon.svg" alt="">
+     <h1 style="text-align:center;margin-top:1rem;">DASHBOARD</h1>
       </div>
-</jj-parallax-card>
-
+    </jj-parallax-card>
   </div>
 </template>
 
 <script>
 import { mapState, mapActions } from 'vuex';
 import JJParallaxCard from 'jj-parallax-card'
+
 export default {
   data() {
     return {
@@ -26,12 +24,10 @@ export default {
     };
   },
  components: {
-  'jj-parallax-card':JJParallaxCard,
-    
+     'jj-parallax-card':JJParallaxCard,
   },
 };
 </script>
-
 <style scoped>
 .hasEffect {
   cursor: pointer;

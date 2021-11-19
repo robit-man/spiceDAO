@@ -1,16 +1,28 @@
 <template>
-  <div>
     <div id="app" class="" style="">
+  <header>
+  <div class="button-row-header">
+  <div class="ticker-button"><b>GRA</b></div>
+  <div class="wallet-button">Connect Wallet</div>
+  <div class="mode-button"></div>
+  </div>
+  </header>
+    <div class="sidebar">
+    <Nav></Nav>
+    </div>
+
       <VueLoadingIndicator v-if="settings.loading" class="overlay big" />
-      <div v-else>
+      <div class="app-window" v-else>
+      
         <router-view :key="$route.path" />
+
       </div>
     </div>
-  </div>
 </template>
 
 <script>
 import { mapState, mapActions } from 'vuex';
+import Nav from './components/Nav.vue';
 
 export default {
   computed: {

@@ -1,14 +1,18 @@
 import Vue from 'vue';
 import VueRouter, { RouteConfig } from 'vue-router';
 import Home from '@/views/Home.vue';
-import About from '@/views/About.vue';
+import Dashboard from '@/views/Dashboard.vue';
+import Stake from '@/views/Stake.vue';
+import Bond from '@/views/Bond.vue';
 
 
 Vue.use(VueRouter);
 
 const routes: Array<RouteConfig> = [
   { path: '/', name: 'home', component: Home },
-  { path: '/about', name: 'about', component: About }
+  { path: '/dashboard', name: 'dashboard', component: Dashboard },
+  { path: '/stake', name: 'stake', component: Stake },
+  { path: '/bond', name: 'bond', component: Bond },
   
 ];
 
