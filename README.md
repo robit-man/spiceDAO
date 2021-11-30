@@ -1,4 +1,4 @@
-# Grail DAO Frontend
+# SPICE DAO Frontend
 
 ## Project setup
 ```
